@@ -1,3 +1,6 @@
+alert('Hola desde app.js');
+
+
 // console.log('Hola Mundo');
 //se pueden definir varias variables separadas por la coma 
 let  a = 10,
@@ -5,6 +8,8 @@ let  a = 10,
     c = 'Hola',
     d = 'Spiderman',
     x =  a + b;
+
+const saludo = c + " "+ d;
 
 // c=20; ESTO NO SE PUEDE HACER
 
@@ -24,13 +29,12 @@ let  a = 10,
 // console.log({c});
 // console.log({d});
 // console.log('%c Mis variables', 'color: green; font-weight: bold');
-c = 'Hola de nuevo';
-const saludo = c + " "+ d;
+// c = 'Hola de nuevo';
+
+
 
 // console.table({a,b,c,d,x});
 
+var miNombre= 'Fiona';
 
-
-//Depuración
-
-c = 'Hola de nuevo';
+//Depuración F5
