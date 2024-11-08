@@ -1,15 +1,14 @@
-alert('Hola desde app.js');
-
+// alert('Hola desde app.js');
 
 // console.log('Hola Mundo');
 //se pueden definir varias variables separadas por la coma 
 let  a = 10,
-    b = 20,
-    c = 'Hola',
-    d = 'Spiderman',
-    x =  a + b;
+     b = 20,
+     c = 'Hola',
+     d = 'Spiderman',
+     x =  a + b;
 
-const saludo = c + " "+ d;
+const saludo = c + " " + d;
 
 // c=20; ESTO NO SE PUEDE HACER
 
@@ -29,12 +28,17 @@ const saludo = c + " "+ d;
 // console.log({c});
 // console.log({d});
 // console.log('%c Mis variables', 'color: green; font-weight: bold');
-// c = 'Hola de nuevo';
+c = 'Hola de nuevo';
 
 
 
 // console.table({a,b,c,d,x});
 
-var miNombre= 'Fiona';
+// var miNombre= 'Fiona';
+//    let outerWidth =1000000;
+//    const outerHeight =600;
 
 //Depuración F5
+
+
+let miNuevoNombre= 'Fiona'
